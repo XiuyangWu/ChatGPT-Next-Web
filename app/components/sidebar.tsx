@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           ProPsyHealth AI
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Intelligent Analysis and Service Platform for Occupational Mental Health.
+          职业心理健康智能分析与服务平台
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
